@@ -145,6 +145,10 @@ h3:hover{
 }
 
 @media all and ( max-width: 600px) {
+    .title{
+        font-size: 30px;
+    }
+
     .wrapper-header{
         margin: 3% 9% 0;
     }
