@@ -215,5 +215,11 @@ h3:hover{
 
     }
 
+    li {
+        font-size: 22px;
+    }
+    .sub-li {
+        font-size: 17px;
+    }
 
 }
